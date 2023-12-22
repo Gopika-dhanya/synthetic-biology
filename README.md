@@ -1,2 +1,2 @@
 # Synthetic-biology
-GE
+GE tool
